@@ -1,6 +1,6 @@
 # R-project
 # TITLE
-Notebook  :
+Ad Click Prediction:Using the advertising dataset.
 
 
 # AUTHOR
@@ -8,6 +8,8 @@ Built by Stella Kimani
 
 # PROJECT DESCRIPTION
 Notebook done using R :The goal of this project are to deeply explore data to do with advertising, perform univariate and bivariate analysis and achieve predicitons from the data using machine learning techniques. I will use R in the project.
+Online ads have become a daily part of internet life.Online advertising is much more fluid and dynamic than simple print ads. Online ads can and should be precise in who they target, going only to viewers based on location, age, interests, or other demographics relevant to the business. The ‘click’ goes to the business’s homepage or a content-specific landing page.
+The table below shows a description of the columns in the dataset.
 Feature	                                            Description
 1. Daily                                    Time Spent on a Site	Time spent by the user on a site in minutes.
 2. Age	                                    Customer's age in terms of years.
@@ -20,8 +22,6 @@ Feature	                                            Description
 9. Timestamp	                              Time at which user clicked on an Ad or the closed window.
 10. Clicked on Ad	                          0 or 1 is indicated clicking on an Ad.
 
-# SET UP/ INSTALLATION REQUIREMENTS
-Clone this Repo by Running:
 
 # Technologies Used:
 R programming
