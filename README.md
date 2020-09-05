@@ -21,7 +21,8 @@ Feature	                                            Description
 8. Country	                                Country of the consumer.
 9. Timestamp	                              Time at which user clicked on an Ad or the closed window.
 10. Clicked on Ad	                          0 or 1 is indicated clicking on an Ad.
-
+# SET UP/ INSTALLATION REQUIREMENTS
+Clone this Repo by Running:
 
 # Technologies Used:
 R programming
